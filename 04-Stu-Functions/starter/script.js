@@ -26,7 +26,6 @@ let areaOfSquare = function(){
 }
 
 
-
 addOneAndTwo()
 subtracTenFromTwenty()
 areaOfSquare()
